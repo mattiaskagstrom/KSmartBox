@@ -1,0 +1,9 @@
+In my testing on XC60 2012 - non Sensis, the only notable change since 2.01 is that the CarPlay wifi now (correctly) disconnects from phone (I tested with iPhone only) when the car is turned off AND then the driver door is opened - as it should. The console Media, MyCar and Radio buttons may also be improved / changed (I can't recall if this was in 2.01) but net result (which I quite like) is one can select now what is displayed (CarPlay or OEM) by pressing MyCar, or what is heard (CarPlay or OEM audio source - like radio, cd) by pressing Media button.
+It's a bit fiddly to get used to but it works quite well.
+
+Only 'annoyance' I've noticed (not sure this is 2.03 specific):
+i often listen to OEM preset radio (am station but not certain this is relevant). When I start car, it starts playing Radio as it should, but then as Carplay starts up it changes Radio tuned frequency to a different, untuned (ie nothing on that frequency) - so just annoying white noise (off station radio sound), forcing me to select oem radio manually & then reset the radio station to the one i was listening to before CarPlay started. I've not yet tested extensively but that's a start. id be interested in your experience, no doubt I may have missed something. It's a challenge when no Changelog supplied with these release 🤷‍♂️.
+
+oh and the incorrect temp increments on CarPlay overlay for AC controls, only when units are F not C, are still not corrected. I happened to test that just to see as many (obvious US where F is used) reported this as a problem. I did report to Kremersino - hopefully others did to, it's fine in displaying Celsius.
+
+Source: https://www.swedespeed.com/threads/android-auto-carplay-retrofit-prior-to-2015-5-model-years.645022/post-8018736

@@ -1,0 +1,19 @@
+08 November 2022 Kremersino Software update notes (my own)
+
+Update includes two seperate Updates - 
+1. MCU Software V2.03 
+2. System Software
+It doesnt matter which is installed first.
+After both installed, there is a new tab (I misssed it at first) under 
+Carplay device settings, Advanvced settings (after password 8818 as before), 
+Its labeled somthing like "MCU Update" once seleected - there is a (new) screen with a table of options
+Top colums 0-7, and rows A-D (from memory) 
+now important ONLY select A0 ie top left box - selectimg any other MAY, Im told do harm to device.
+if in doubt ask..
+
+In my initial testing (limited so far) the bigest (for me fix) is the phone (IOS mine is) now 
+disconnects from Carplay after I turn off ignition and open car door - exactly as I think
+it should. (it stays connected until door opened, again as it should - one may be on a phone call etc)
+
+hope it solves any issues you have and do share your experience, issues and observations
+Cheers 
