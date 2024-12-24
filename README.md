@@ -9,3 +9,6 @@ KSmart box
 ISmart box
 Android auto / apple Carplay retrofit
 Kremersino CarPlay box
+
+
+Factory pincode for the advanced settings is usually 8818
